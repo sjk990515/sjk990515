@@ -11,17 +11,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-비즈니스 맥락에 따라 성능, UI/UX, 접근성, 유지보수성의 우선순위를 조율하며 빠르게 가설을 검증하는 프론트엔드 개발자입니다.
-
-웹디자인/퍼블리싱 경험을 바탕으로 **디자인 의도를 해치지 않는 UI**를 구현하고,  
-AI 기반 자동화 파이프라인을 활용해 **기존 5인 팀 10개월 → 2인 팀 2개월**로 프로덕션 개발을 완성한 경험이 있습니다.
-
-> 🎯 CES 2026 Eureka Park 전시 — **PLYN 솔루션** 프론트엔드 담당
-
----
-
 ### 🛠 Tech Stack
 
 **Core**
@@ -61,80 +50,196 @@ AI 기반 자동화 파이프라인을 활용해 **기존 5인 팀 10개월 → 
 
 ### 💼 Experience
 
-| Period | Company | Role |
-|--------|---------|------|
-| 2026.01 ~ | **AIGroup** (AIgement) | Frontend Developer |
-| 2023.09 ~ 2026.01 | **AIGroup** (AIBlue) | Frontend Developer |
-| 2023.08 ~ 2023.09 | **해커스홀딩스** | Frontend Developer |
+> **AIGroup** · Frontend Developer `2023.09 ~ 현재`
+>
+> | 기간 | 소속 | 비고 |
+> |------|------|------|
+> | 2026.01 ~ 현재 | AIgement | 고용승계 |
+> | 2023.09 ~ 2026.01 | AIBlue | 2년 5개월 |
+
+> **해커스홀딩스** · Frontend Developer `2023.08 ~ 2023.09` · 1.5개월
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
-<details>
-<summary><b>PLYN 솔루션</b> — 구매 원가 절감 및 업무 자동화 <code>CES 2026</code></summary>
+#### AIgement
+
+<details open>
+<summary><b>🏆 PLYN 솔루션</b> — CES 2026 Eureka Park 전시</summary>
 <br>
 
-- 1인 FE로 신규 구현, 리팩토링, 다국어화(i18n), 오프라인 환경 대응
-- React + Vite + TypeScript + TanStack Query + Tailwind CSS
-- Playwright E2E 테스트, Docker 기반 배포
+> 구매 원가 절감 및 업무 자동화 서비스 (구매팀 업무 자동화 중심)
+
+| | |
+|---|---|
+| **역할** | 1인 FE · 신규 구현, 리팩토링, 다국어화, 오프라인 환경 대응 |
+| **Core** | React, Vite, TypeScript |
+| **State** | TanStack Query |
+| **Styling** | Tailwind CSS |
+| **Testing** | Playwright |
+| **Library** | i18n |
+| **Infra** | Docker, husky |
+
+- AI 기반 자동화 파이프라인 구축 → 기획 ~ API 연동까지 Prototype을 빠르게 생성
+- 아키텍처 리팩토링(FSD) → API 표준화 → Unit/E2E 테스트 → Production 개발 자동화
+- **기존 5인 팀 10개월 → 2인 팀 2주(Prototype) + 2개월(Production)으로 단축**
+- i18n 기반 다국어 지원 및 오프라인 환경 대응으로 CES 현장 전시 안정성 확보
 
 </details>
 
 <details>
-<summary><b>Ai-mighty v2</b> — 구매 원가 절감 중심 자동화 서비스</summary>
+<summary><b>Ai-mighty v2 솔루션</b> — 구매 원가 절감 중심</summary>
 <br>
 
-- 2인 FE 팀으로 신규 구현 및 리팩토링
-- Next.js + TypeScript + TanStack Query + vanilla-extract
+> 구매 원가 절감 및 업무 자동화 서비스 (구매 원가 절감 중심)
+
+| | |
+|---|---|
+| **역할** | 2인 FE 중 팀원 · 신규 구현, 리팩토링 |
+| **Core** | Next.js, TypeScript |
+| **State** | TanStack Query |
+| **Styling** | vanilla-extract |
+| **Infra** | husky, systemctl |
 
 </details>
 
 <details>
-<summary><b>Ai-mighty v1</b> — 구매 원가 절감 및 업무 자동화</summary>
+<summary><b>Ai-mighty v1 솔루션</b> — 구매 업무 자동화</summary>
 <br>
 
-- 1인 FE로 신규 구현 및 유지보수
-- Next.js + TypeScript + Recoil + styled-components + WebSocket
+> 구매 원가 절감 및 업무 자동화 서비스
+
+| | |
+|---|---|
+| **역할** | 1인 FE · 신규 구현, 유지보수 |
+| **Core** | Next.js, TypeScript |
+| **State** | Recoil |
+| **Styling** | styled-components |
+| **Library** | WebSocket |
+| **Infra** | pm2 |
 
 </details>
 
 <details>
-<summary><b>온실가스 전망 모델</b> — 국립산림과학원</summary>
+<summary><b>기업 홈페이지</b> — 기업 홍보용 웹사이트</summary>
 <br>
 
-- 온실가스 배출량·산불 피해 장기 전망 예측 서비스
-- React + JavaScript + SpreadJS
-
-</details>
-
-<details>
-<summary><b>기타 프로젝트</b></summary>
-<br>
-
-- **Tobo3D** — 인테리어 3D 렌더링 서비스 (Next.js, Recoil)
-- **감탄소 CxB v2** — 탄소 절감 리워드 모바일 앱 (Flutter)
-- **에코로봇 환전** — 포인트 현금 환전 서비스 (Next.js, Zustand)
-- **홍익여행사 좌석배치** — KTX 티켓 관리 (ASP.NET, jQuery)
+| | |
+|---|---|
+| **역할** | 1인 FE · 반응형 전환, 유지보수 |
+| **Core** | JavaScript, HTML |
+| **Styling** | SCSS |
 
 </details>
 
 ---
 
-### 📊 GitHub Stats
+#### AIBlue
 
-<div align="center">
+<details>
+<summary><b>온실가스 전망 모델 솔루션</b> — 국립산림과학원</summary>
+<br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjk990515&show_icons=true&theme=default&hide_border=true&count_private=true)
+> 온실가스 배출량·산불 피해 장기 전망 예측 서비스
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjk990515&layout=compact&theme=default&hide_border=true)
+| | |
+|---|---|
+| **역할** | 1인 FE · 신규 구현, 리팩토링, 유지보수, 고도화 |
+| **Core** | React, JavaScript |
+| **Styling** | styled-components |
+| **Library** | SpreadJS |
 
-</div>
+</details>
+
+<details>
+<summary><b>기업 홈페이지</b> — 기업 홍보용 웹사이트</summary>
+<br>
+
+| | |
+|---|---|
+| **역할** | 1인 FE · 유지보수 |
+| **Core** | Next.js, JavaScript |
+| **Styling** | Tailwind CSS |
+
+</details>
 
 ---
 
-<div align="center">
+#### 외주 / 클라이언트 프로젝트
 
-*Prototype 부터 Production 까지, 빠르게 그리고 단단하게.* ✨
+<details>
+<summary><b>홍익여행사 좌석배치 관리자</b> — KTX 티켓 및 고객 정보 관리</summary>
+<br>
 
-</div>
+| | |
+|---|---|
+| **역할** | 1인 FE · 일부 구현, 유지보수 |
+| **Core** | ASP.NET, jQuery |
+| **Styling** | CSS |
+
+</details>
+
+<details>
+<summary><b>Tobo3D 솔루션</b> — 인테리어 3D 렌더링 서비스</summary>
+<br>
+
+| | |
+|---|---|
+| **역할** | 1인 FE · 신규 구현, 유지보수 |
+| **Core** | Next.js, TypeScript |
+| **State** | Recoil |
+| **Styling** | styled-components |
+| **Library** | react-photo-sphere-viewer |
+
+</details>
+
+<details>
+<summary><b>잉어마켓 쇼핑몰</b> — 중고 건축·인테리어 자재 직거래 플랫폼</summary>
+<br>
+
+| | |
+|---|---|
+| **역할** | 1인 FE · 유지보수 |
+| **Core** | JavaScript, HTML |
+| **Styling** | CSS |
+
+</details>
+
+<details>
+<summary><b>에코로봇 환전 사이트</b> — 적립 포인트 현금 환전 서비스</summary>
+<br>
+
+| | |
+|---|---|
+| **역할** | 1인 FE · 신규 구현 |
+| **Core** | Next.js |
+| **State** | Zustand |
+| **Styling** | styled-components |
+
+</details>
+
+<details>
+<summary><b>신규 관리자 사이트</b> — 고객 관리 및 재활용품 수거 모니터링</summary>
+<br>
+
+| | |
+|---|---|
+| **역할** | 1인 FE · 신규 구현 |
+| **Core** | Next.js, TypeScript |
+| **Styling** | styled-components |
+| **Library** | Recharts |
+
+</details>
+
+<details>
+<summary><b>감탄소 CxB v2 앱</b> — 탄소 절감량 측정 및 포인트 리워드</summary>
+<br>
+
+| | |
+|---|---|
+| **역할** | 2인 FE 중 팀원 · 일부 구현 |
+| **Core** | Flutter, Dart |
+| **Styling** | Material UI, Custom Design System |
+
+</details>
