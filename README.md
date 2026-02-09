@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Junggeun
 
-**Frontend Developer** who ships fast — from Prototype to Production.
+**Frontend Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-sjk990515-181717?style=flat-square&logo=github)](https://github.com/sjk990515)
 [![Email](https://img.shields.io/badge/Email-prdg990515@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prdg990515@gmail.com)
@@ -63,10 +63,8 @@
 
 ### 🚀 Projects
 
-#### AIgement
-
 <details open>
-<summary><b>🏆 PLYN 솔루션</b> — CES 2026 Eureka Park 전시</summary>
+<summary><b>PLYN 솔루션</b> — CES 2026 Eureka Park 전시</summary>
 <br>
 
 > 구매 원가 절감 및 업무 자동화 서비스 (구매팀 업무 자동화 중심)
@@ -122,7 +120,7 @@
 </details>
 
 <details>
-<summary><b>기업 홈페이지</b> — 기업 홍보용 웹사이트</summary>
+<summary><b>AIgement 기업 홈페이지</b> — 기업 홍보용 웹사이트</summary>
 <br>
 
 | | |
@@ -132,10 +130,6 @@
 | **Styling** | SCSS |
 
 </details>
-
----
-
-#### AIBlue
 
 <details>
 <summary><b>온실가스 전망 모델 솔루션</b> — 국립산림과학원</summary>
@@ -153,7 +147,7 @@
 </details>
 
 <details>
-<summary><b>기업 홈페이지</b> — 기업 홍보용 웹사이트</summary>
+<summary><b>AIBlue 기업 홈페이지</b> — 기업 홍보용 웹사이트</summary>
 <br>
 
 | | |
@@ -164,10 +158,6 @@
 
 </details>
 
----
-
-#### 외주 / 클라이언트 프로젝트
-
 <details>
 <summary><b>홍익여행사 좌석배치 관리자</b> — KTX 티켓 및 고객 정보 관리</summary>
 <br>
@@ -176,6 +166,18 @@
 |---|---|
 | **역할** | 1인 FE · 일부 구현, 유지보수 |
 | **Core** | ASP.NET, jQuery |
+| **Styling** | CSS |
+
+</details>
+
+<details>
+<summary><b>잉어마켓 쇼핑몰</b> — 중고 건축·인테리어 자재 직거래 플랫폼</summary>
+<br>
+
+| | |
+|---|---|
+| **역할** | 1인 FE · 유지보수 |
+| **Core** | JavaScript, HTML |
 | **Styling** | CSS |
 
 </details>
@@ -191,18 +193,6 @@
 | **State** | Recoil |
 | **Styling** | styled-components |
 | **Library** | react-photo-sphere-viewer |
-
-</details>
-
-<details>
-<summary><b>잉어마켓 쇼핑몰</b> — 중고 건축·인테리어 자재 직거래 플랫폼</summary>
-<br>
-
-| | |
-|---|---|
-| **역할** | 1인 FE · 유지보수 |
-| **Core** | JavaScript, HTML |
-| **Styling** | CSS |
 
 </details>
 
