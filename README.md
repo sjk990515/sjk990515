@@ -4,18 +4,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prdg990515@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sjk990515)
-
-<br>
-
-```javascript
-const junggeun = {
-  role: "Frontend Developer",
-  company: "AIGroup",
-  highlight: "CES 2026 Eureka Park 🇺🇸",
-  currently: "구매 자동화 솔루션 PLYN 개발 중",
-};
-```
-
 </div>
 
 <br>
