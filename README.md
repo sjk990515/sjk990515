@@ -39,18 +39,11 @@
 
 ## 💼 &nbsp;Work Experience
 
-<br>
+**AIGroup** · Frontend Developer `2023.09 ~`  
+&nbsp;&nbsp;&nbsp;&nbsp;↳ `2026.01 ~` AIgement (고용승계)  
+&nbsp;&nbsp;&nbsp;&nbsp;↳ `2023.09 ~ 2026.01` AIBlue
 
-> **AIGroup** · Frontend Developer `2023.09 ~`
->
-> | 기간 | 소속 |
-> |------|------|
-> | 2026.01 ~ | AIgement (고용승계) |
-> | 2023.09 ~ 2026.01 | AIBlue |
-
-> **해커스홀딩스** · Frontend Developer `2023.08 ~ 2023.09`
-
-<br>
+**해커스홀딩스** · Frontend Developer `2023.08 ~ 2023.09`
 
 ## 🚀 &nbsp;Projects
 
@@ -250,17 +243,3 @@
 **2인 FE 중 팀원** · 일부 구현
 
 </details>
-
-<br>
-
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<br>
-
-<a href="https://github.com/sjk990515">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sjk990515&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
-</a>
-
-</div>
